@@ -1,5 +1,5 @@
 {
-  "name": "@indiekit/pg-diff",
+  "name": "@indiekitai/pg-diff",
   "version": "0.1.0",
   "description": "PostgreSQL schema diff - generates migration SQL by comparing two databases",
   "type": "module",

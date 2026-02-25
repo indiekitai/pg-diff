@@ -41,5 +41,12 @@
     "diff",
     "migration"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indiekitai/pg-diff"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # @indiekit/pg-diff
 
 [![npm](https://img.shields.io/npm/v/@indiekit/pg-diff)](https://www.npmjs.com/package/@indiekit/pg-diff)
